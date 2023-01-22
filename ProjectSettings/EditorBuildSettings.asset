@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Oscar/OscarDia9/OscarCallFunctions.unity
     guid: 381774595ed01354ea45f8d524082a0e
+  - enabled: 1
+    path: Assets/Mery/Scenes/FlappyBirdMery.unity
+    guid: a989cafca65bf8b44a52a3f03b36c842
+  - enabled: 1
+    path: Assets/Mery/Scenes/GameOverMery.unity
+    guid: 5afacc6abbce0734fae2f73e423865fa
   m_configObjects: {}
